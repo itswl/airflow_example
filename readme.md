@@ -1,10 +1,10 @@
 ## airflow安装扩展
 ### 基于官方镜像制作个人镜像
 
-当前 airflow 最新版本为 2.2.1，以此为基础安装部分软件，以及 python 三方包,详细文件可参考  https://github.com/itswl/airflow
+当前 airflow 最新版本为 2.2.1，以此为基础安装部分软件，以及 python 三方包,详细文件可参考  https://github.com/itswl/airflow_example
 
 ```
-git clone git@github.com:itswl/airflow.git
+git clone git@github.com:itswl/airflow_example.git
 cd airflow
 ```
 

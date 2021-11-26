@@ -106,10 +106,10 @@ chmod +x airflow.sh
 ### 基于官方镜像制作个人镜像
 跑 DAG 中的代码可能需要用到shell, python三方包等原因，一般实际使用还需要在官方镜像上集成
 
-当前 airflow 最新版本为 2.2.1，以此为基础安装部分软件，以及 python 三方包,详细可参考  https://github.com/itswl/airflow
+当前 airflow 最新版本为 2.2.1，以此为基础安装部分软件，以及 python 三方包,详细可参考  https://github.com/itswl/airflow_example
 
 ```bash
-git clone git@github.com:itswl/airflow.git
+git clone git@github.com:itswl/airflow_example.git
 cd airflow
 ```
 
